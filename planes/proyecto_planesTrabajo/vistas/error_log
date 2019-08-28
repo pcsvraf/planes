@@ -1,0 +1,3 @@
+[06-May-2019 20:31:15 UTC] PHP Warning:  include(/home/pcspucv/public_html/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/d/planes/proyecto_planesTrabajo/vistas/menu.php on line 8
+[06-May-2019 20:31:15 UTC] PHP Warning:  include(): Failed opening '/home/pcspucv/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/d/planes/proyecto_planesTrabajo/vistas/menu.php on line 8
+[06-May-2019 20:31:15 UTC] PHP Fatal error:  Call to undefined function get_userdata() in /home/pcspucv/public_html/d/planes/proyecto_planesTrabajo/vistas/menu.php on line 10
